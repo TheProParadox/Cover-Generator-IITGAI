@@ -1,9 +1,10 @@
 <h1 align="center">
 Cover Generator
+
+Project Members - Pushkar, ShreeHari, Ayush, Karan
+Mentor - Bhavik 
 </h1>
-<h3 align="center">
-  🎶 ➡ 🧠  ➡ 🖼️
-</h3>
+
 
 ## Update 
 The discussed pipeline can also be effectively applied to the cover generation of books, podcasts, music albums, meetings, documents, story books, and theatre scripts, as in serving a multi-purpose role. 
